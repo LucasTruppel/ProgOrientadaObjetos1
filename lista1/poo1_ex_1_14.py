@@ -1,3 +1,8 @@
+# Dados do problema:
+# Título: Transporte de Contêineres
+# Origem: Por OBI - Olimpíada Brasileira de Informática 2011 Brazil
+# Link: https://www.beecrowd.com.br/judge/pt/problems/view/2395
+
 A, B, C = input().split()
 A = int(A)
 B = int(B)

@@ -1,3 +1,8 @@
+# Dados do problema:
+# Título: Distância Entre Dois Pontos
+# Origem: Adaptado por Neilor Tonin, URI Brasil
+# Link: https://www.beecrowd.com.br/judge/pt/problems/view/1015
+
 import math
 
 x1, y1 = input().split()

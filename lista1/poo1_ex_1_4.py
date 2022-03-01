@@ -1,3 +1,8 @@
+# Dados do problema:
+# Título: Salário
+# Origem: Adaptado por Neilor Tonin, URI Brasil
+# Link: https://www.beecrowd.com.br/judge/pt/problems/view/1008
+
 numero = int(input())
 horas = int(input())
 valor_hora = float(input())

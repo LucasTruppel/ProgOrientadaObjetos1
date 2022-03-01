@@ -1,6 +1,6 @@
 # Dados do problema:
 # Título: Média 1
-# Autor: Adaptado por Neilor Tonin, URI Brasil
+# Origem: Adaptado por Neilor Tonin, URI Brasil
 # Link: https://www.beecrowd.com.br/judge/pt/problems/view/1005
 
 A = float(input())

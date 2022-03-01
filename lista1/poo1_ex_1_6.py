@@ -1,3 +1,8 @@
+# Dados do problema:
+# Título: Área
+# Origem: Adaptado por Neilor Tonin, URI Brasil
+# Link: https://www.beecrowd.com.br/judge/pt/problems/view/1012
+
 A, B, C = input().split()
 A = float(A)
 B = float(B)
