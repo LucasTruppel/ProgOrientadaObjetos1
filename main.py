@@ -1,6 +1,2 @@
-lista = [1, 2, 3]
-nova_list = lista.copy()
-nova_list.append(4)
-
-print(lista)
-print(nova_list)
+dic = {'a': 1, 'b': 2, 'c': 3}
+print(dic.keys())
